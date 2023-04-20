@@ -1,0 +1,19 @@
+{
+  "name": "com.hasteup.pooling",
+  "version": "1.0.0",
+  "displayName": "Pooling",
+  "description": "Generic pooling solution",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "pooling"
+  ],
+  "author": {
+    "name": "Francois Sestier",
+    "email": "francois.sestier@gmail.com",
+    "url": "https://www.francoissestier.com/"
+  }
+}
